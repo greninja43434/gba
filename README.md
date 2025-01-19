@@ -11,6 +11,6 @@ Or, at the wiki linked above.
 
 ## Credits
 
-Lead Developer - Cattn
-> Developed by MSG. 
+Lead Developer - Sleepy
+> Developed by Sleepy.
 
